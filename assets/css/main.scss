@@ -39,3 +39,13 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Custom styles for author avatar
+.author__avatar img {
+    border-radius: 8px;  // 稍微圆角，不是完全方形
+    width: auto;         // 保持图片原始宽度
+    height: auto;        // 保持图片原始高度
+    max-width: 200px;    // 限制最大宽度
+    max-height: 200px;   // 限制最大高度
+    object-fit: contain; // 保持图片比例，显示完整图片
+}
