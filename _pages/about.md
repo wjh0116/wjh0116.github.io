@@ -16,7 +16,10 @@ My research interests include graph algorithms and social network analysis.
 Publications
 ======
 
-- [**Effective Influence Maximization with Priority**]().  
+- [**Time-Critical Influence Minimization via Node Blocking**]().  
+**Jinghao Wang**, Yanping Wu, Xiaoyang Wang, Ying Zhang, Wenjie Zhang, Lu Qin.
+The International Conference on Management of Data (**SIGMOD**), 2026.
+- [**Effective Influence Maximization with Priority**](https://dl.acm.org/doi/10.1145/3696410.3714888).  
 **Jinghao Wang**, Yanping Wu, Xiaoyang Wang, Chen Chen, Ying Zhang, Lu Qin.  
 The Web Conference (**WWW**), 2025.
 - [**Efficient Influence Minimization via Node Blocking**](https://www.vldb.org/pvldb/vol17/p2501-wu.pdf).  
@@ -28,3 +31,9 @@ The Web Conference (**WWW**), 2024.
 - [**Rumor blocking with pertinence set in large graphs**](https://link.springer.com/article/10.1007/s11280-024-01235-w).  
 Fangsong Xiang, **Jinghao Wang**, Yanping Wu, Xiaoyang Wang, Chen Chen, Ying Zhang.  
 World Wide Web (**WWWJ**), 2024.
+
+---
+
+## 访问统计
+
+<small>页面访问统计由 [Extreme Tracking](https://extremetracking.com/free?login=jinghaow) 提供</small>
