@@ -34,6 +34,4 @@ World Wide Web (**WWWJ**), 2024.
 
 ---
 
-## 访问统计
 
-<small>页面访问统计由 [Extreme Tracking](https://extremetracking.com/free?login=jinghaow) 提供</small>
