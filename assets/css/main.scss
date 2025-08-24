@@ -45,7 +45,7 @@
     border-radius: 8px;  // 稍微圆角，不是完全方形
     width: auto;         // 保持图片原始宽度
     height: auto;        // 保持图片原始高度
-    max-width: 200px;    // 限制最大宽度
-    max-height: 200px;   // 限制最大高度
+    max-width: 250px;    // 稍微放大：从200px增加到250px
+    max-height: 250px;   // 稍微放大：从200px增加到250px
     object-fit: contain; // 保持图片比例，显示完整图片
 }
