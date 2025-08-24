@@ -13,7 +13,7 @@ My research interests include graph algorithms and social network analysis.
 
 
 
-Publications
+Selected Publications
 ======
 
 - [**Time-Critical Influence Minimization via Node Blocking**]().  
