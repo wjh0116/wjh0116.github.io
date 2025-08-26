@@ -34,4 +34,11 @@ The World Wide Web (**WWWJ**), 2024.
 
 ---
 
+<!-- Visitors map (small) -->
+<div style="margin: 12px 0; text-align: center;">
+<a href="https://mapmyvisitors.com/web/1byyp" title="Visitors map" rel="nofollow noopener" target="_blank">
+  <img src="https://mapmyvisitors.com/map.png?d=ZGYmA-QzJAw2he16aq7ZJjQdxww-7x_y3ZDfth99njk&cl=ffffff" alt="Visitors map" width="220" style="border:0; max-width:100%; height:auto; vertical-align:middle;" />
+</a>
+</div>
+
 
