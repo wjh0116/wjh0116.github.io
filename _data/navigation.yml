@@ -6,8 +6,10 @@
 
 main:
   - title: "Publications"
-    # url: /publications/
-    url: "#"
+    url: "#publications"
+
+  - title: "Awards"
+    url: "#awards"
 
   # - title: "Professional Activities"
   #   # url: /publications/

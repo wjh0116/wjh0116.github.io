@@ -13,8 +13,7 @@ My research interests include graph algorithms and social network analysis.
 
 
 
-Selected Publications
-======
+<h1 id="publications">Selected Publications</h1>
 
 <style>
 .pub-list { list-style: none; margin: 0.5em 0 0; padding: 0; }
@@ -25,6 +24,7 @@ Selected Publications
 .pub-list .venue { display: block; color: #888; font-style: italic; }
 .award-list { margin: 0.5em 0 0; padding-left: 1.2em; }
 .award-list li { margin-bottom: 0.5em; line-height: 1.5; }
+#publications, #awards { scroll-margin-top: 80px; }
 </style>
 
 <!-- To add a paper, copy one <li> block below.
@@ -72,8 +72,7 @@ Selected Publications
 
 </ul>
 
-Honors & Awards
-======
+<h1 id="awards">Honors &amp; Awards</h1>
 
 <ul class="award-list">
 <li>University Nomination (Top 2) for Google PhD Fellowships 2025.</li>
