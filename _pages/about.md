@@ -69,3 +69,11 @@ Selected Publications
 </li>
 
 </ul>
+
+Honors & Awards
+======
+
+- University Nomination (Top 2) for Google PhD Fellowships 2025.
+- Student Travel Grant, ADC 2024.
+- International Research Scholarship and ARC Discovery Project Scholarship, UTS, 2024.
+- The First Prize of the National College Student Mathematics Competition, Chinese Mathematical Society, 2021.
