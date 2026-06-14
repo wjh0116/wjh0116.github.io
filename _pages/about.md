@@ -35,13 +35,13 @@ Selected Publications
 <ul class="pub-list">
 
 <li>
-<span class="title">Approximating Contribution in Misinformation Mitigation</span>
+<a class="title" href="/">Approximating Contribution in Misinformation Mitigation</a>
 <span class="authors"><span class="me">Jinghao Wang</span>, Renzhe Miao, Yanping Wu, Xiaoyang Wang, Ying Zhang</span>
 <span class="venue">The International Conference on Management of Data (<b>SIGMOD</b>), 2027</span>
 </li>
 
 <li>
-<span class="title">Time-Critical Influence Minimization via Node Blocking</span>
+<a class="title" href="https://dl.acm.org/doi/abs/10.1145/3769834">Time-Critical Influence Minimization via Node Blocking</a>
 <span class="authors"><span class="me">Jinghao Wang</span>, Yanping Wu, Xiaoyang Wang, Ying Zhang, Wenjie Zhang, Lu Qin</span>
 <span class="venue">The International Conference on Management of Data (<b>SIGMOD</b>), 2026</span>
 </li>
