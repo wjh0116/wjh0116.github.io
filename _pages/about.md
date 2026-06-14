@@ -23,6 +23,8 @@ Selected Publications
 .pub-list .authors { display: block; }
 .pub-list .authors .me { font-weight: 700; }
 .pub-list .venue { display: block; color: #888; font-style: italic; }
+.award-list { margin: 0.5em 0 0; padding-left: 1.2em; }
+.award-list li { margin-bottom: 0.5em; line-height: 1.5; }
 </style>
 
 <!-- To add a paper, copy one <li> block below.
@@ -73,7 +75,9 @@ Selected Publications
 Honors & Awards
 ======
 
-- University Nomination (Top 2) for Google PhD Fellowships 2025.
-- Student Travel Grant, ADC 2024.
-- International Research Scholarship and ARC Discovery Project Scholarship, UTS, 2024.
-- The First Prize of the National College Student Mathematics Competition, Chinese Mathematical Society, 2021.
+<ul class="award-list">
+<li>University Nomination (Top 2) for Google PhD Fellowships 2025.</li>
+<li>Student Travel Grant, ADC 2024.</li>
+<li>International Research Scholarship and ARC Discovery Project Scholarship, UTS, 2024.</li>
+<li>The First Prize of the National College Student Mathematics Competition, Chinese Mathematical Society, 2021.</li>
+</ul>
