@@ -47,7 +47,7 @@ My research interests include graph algorithms and social network analysis.
 </li>
 
 <li>
-<span class="title">Efficient and Cost-Effective Influence and Blocker Minimization</span>
+<a class="title" href="/">Efficient and Cost-Effective Influence and Blocker Minimization</a>
 <span class="authors"><span class="me">Jinghao Wang</span>, Yanping Wu, Xiaoyang Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin</span>
 <span class="venue">The VLDB Journal (<b>VLDBJ</b>), 2026</span>
 </li>
