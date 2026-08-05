@@ -47,6 +47,12 @@ My research interests include graph algorithms and social network analysis.
 </li>
 
 <li>
+<span class="title">Efficient and Cost-Effective Influence and Blocker Minimization</span>
+<span class="authors"><span class="me">Jinghao Wang</span>, Yanping Wu, Xiaoyang Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin</span>
+<span class="venue">The VLDB Journal (<b>VLDBJ</b>), 2026</span>
+</li>
+
+<li>
 <a class="title" href="https://dl.acm.org/doi/10.1145/3696410.3714888">Effective Influence Maximization with Priority</a>
 <span class="authors"><span class="me">Jinghao Wang</span>, Yanping Wu, Xiaoyang Wang, Chen Chen, Ying Zhang, Lu Qin</span>
 <span class="venue">The Web Conference (<b>WWW</b>), 2025</span>
