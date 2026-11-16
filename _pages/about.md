@@ -16,8 +16,9 @@ My research interests include graph algorithms and social network analysis.
 <h1 id="publications">Selected Publications</h1>
 
 <style>
-.pub-list { list-style: none; margin: 0.5em 0 0; padding: 0; }
+.pub-list { list-style: decimal; margin: 0.5em 0 0; padding-left: 1.6em; }
 .pub-list li { margin-bottom: 1.15em; line-height: 1.5; }
+.pub-list li::marker { font-weight: 700; }
 .pub-list .title { font-weight: 700; }
 .pub-list .authors { display: block; }
 .pub-list .authors .me { font-weight: 700; }
@@ -32,7 +33,7 @@ My research interests include graph algorithms and social network analysis.
      No link yet:     <span class="title">Title</span>
      Wrap your own name in <span class="me">Jinghao Wang</span>. -->
 
-<ul class="pub-list">
+<ol class="pub-list">
 
 <li>
 <a class="title" href="https://dl.acm.org/doi/10.1145/3837096">Approximating Contribution in Misinformation Mitigation</a>
@@ -82,7 +83,7 @@ My research interests include graph algorithms and social network analysis.
 <span class="venue">The World Wide Web (<b>WWWJ</b>), 2024</span>
 </li>
 
-</ul>
+</ol>
 
 <h1 id="awards">Honors &amp; Awards</h1>
 
