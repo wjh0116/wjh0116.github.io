@@ -35,7 +35,7 @@ My research interests include graph algorithms and social network analysis.
 <ul class="pub-list">
 
 <li>
-<a class="title" href="/">Approximating Contribution in Misinformation Mitigation</a>
+<a class="title" href="https://dl.acm.org/doi/10.1145/3837096">Approximating Contribution in Misinformation Mitigation</a>
 <span class="authors"><span class="me">Jinghao Wang</span>, Renzhe Miao, Yanping Wu, Xiaoyang Wang, Ying Zhang</span>
 <span class="venue">The International Conference on Management of Data (<b>SIGMOD</b>), 2027</span>
 </li>
@@ -47,7 +47,7 @@ My research interests include graph algorithms and social network analysis.
 </li>
 
 <li>
-<a class="title" href="/">Efficient and Cost-Effective Influence and Blocker Minimization</a>
+<a class="title" href="https://link.springer.com/article/10.1007/s00778-026-01003-4">Efficient and Cost-Effective Influence and Blocker Minimization</a>
 <span class="authors"><span class="me">Jinghao Wang</span>, Yanping Wu, Xiaoyang Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin</span>
 <span class="venue">The VLDB Journal (<b>VLDBJ</b>), 2026</span>
 </li>
@@ -62,6 +62,12 @@ My research interests include graph algorithms and social network analysis.
 <a class="title" href="https://www.vldb.org/pvldb/vol17/p2501-wu.pdf">Efficient Influence Minimization via Node Blocking</a>
 <span class="authors"><span class="me">Jinghao Wang</span>, Yanping Wu, Xiaoyang Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin</span>
 <span class="venue">The International Conference on Very Large Data Bases (<b>VLDB</b>), 2024</span>
+</li>
+
+<li>
+<a class="title" href="/">Hop-constrained Reachability Queries on Directed Signed Graphs</a>
+<span class="authors">Yanping Wu, <span class="me">Jinghao Wang</span>, Xiaoyang Wang, Ying Zhang, Lu Qin</span>
+<span class="venue">The International Conference on Very Large Data Bases (<b>VLDB</b>), 2027</span>
 </li>
 
 <li>
