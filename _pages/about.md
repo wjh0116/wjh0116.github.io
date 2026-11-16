@@ -18,7 +18,6 @@ My research interests include graph algorithms and social network analysis.
 <style>
 .pub-list { list-style: decimal; margin: 0.5em 0 0; padding-left: 1.6em; }
 .pub-list li { margin-bottom: 1.15em; line-height: 1.5; }
-.pub-list li::marker { font-weight: 700; }
 .pub-list .title { font-weight: 700; }
 .pub-list .authors { display: block; }
 .pub-list .authors .me { font-weight: 700; }
